@@ -16,12 +16,16 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
 🛠 **Frameworkler & Kütüphaneler**  
 - **Python:** NumPy, pandas, scikit-learn, Flask, Django  
 - **C#:** .NET Framework, Entity Framework, NHibernate, System.IO  
+- **PHP:** Laravel, CodeIgniter  
+- **Java:** Spring Boot, Hibernate  
 - **CSS:** Bootstrap, Tailwind CSS, Font Awesome, Materialize  
 - **JavaScript:** jQuery, React, Angular  
 
@@ -34,16 +38,16 @@
 
 ### 📊 GitHub İstatistiklerim  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emirhan&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emirhan&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emirix7&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirix7&theme=radical" alt="GitHub Streak" width="50%"/>
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın  
 📧 **E-posta:** emirix7n@gmail.com  
-🌍 **Web Sitesi:** [emirix7]((https://emirix7.github.io/))  
-🔗 **LinkedIn:** [linkedin.com/in/emirhan]((https://www.linkedin.com/in/emirhan-y%C4%B1ld%C4%B1r%C4%B1m-8b72ab332/))  
+🌍 **Web Sitesi:** [emirix7](https://emirix7.github.io/)  
+🔗 **LinkedIn:** [linkedin.com/in/emirhan](https://www.linkedin.com/in/emirhan-y%C4%B1ld%C4%B1r%C4%B1m-8b72ab332/)  
 🐦 **Instagram:** [@emir.gx](https://www.instagram.com/emir.gx/)  
 
 <p align="center">
