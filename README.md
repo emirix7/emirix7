@@ -45,7 +45,7 @@
 ---
 
 ### 📫 Bana Ulaşın  
-📧 **E-posta:** emirix7n@gmail.com  
+📧 **E-posta:** emirix7@gmail.com  
 🌍 **Web Sitesi:** [emirix7](https://emirix7.github.io/)  
 🔗 **LinkedIn:** [linkedin.com/in/emirhan](https://www.linkedin.com/in/emirhan-y%C4%B1ld%C4%B1r%C4%B1m-8b72ab332/)  
 🐦 **Instagram:** [@emir.gx](https://www.instagram.com/emir.gx/)  
