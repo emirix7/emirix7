@@ -40,6 +40,23 @@
 
 ---
 
+### 🛡️ **Siber Güvenlik**  
+🔐 **Siber güvenlik konusunda bilgi ve tecrübe sahibiyim.**  
+- **Penetrasyon Testi**: Sistem ve uygulamalardaki güvenlik açıklarını tespit etmek ve çözmek.  
+- **Ağ Güvenliği**: Şifreleme, VPN ve güvenlik duvarları kullanarak ağların korunması.  
+- **Etik Hackerlık**: Güvenlik açıklarını belirleyip raporlama.  
+- **Zararlı Yazılımlar ve Virüs Analizi**: Zararlı yazılımların tespiti ve önlenmesi.  
+- **Sosyal Mühendislik**: İnsan faktörünü göz önünde bulundurarak sosyal mühendislik saldırılarına karşı koruma stratejileri.
+
+🛠 **Kullandığım Güvenlik Araçları ve Teknolojiler**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23326A8B.svg?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%23E15D44.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-%238C0095.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%239A0800.svg?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%230D8C54.svg?style=for-the-badge&logo=nmap&logoColor=white)  
+
+---
+
 ### 📊 GitHub İstatistiklerim  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirix7&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
